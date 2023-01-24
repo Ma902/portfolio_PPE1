@@ -100,11 +100,7 @@ strong{
 /* download */
 .download{
 	color: #ffffff;
-	background-color: #00CD83;
-	padding: 10px;
-	border-radius: 20px;
 	text-decoration: none;
-	margin-top: 20px;
 	display: flex;
 	justify-content: center;
 }
