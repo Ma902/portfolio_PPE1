@@ -104,3 +104,9 @@ strong{
 	display: flex;
 	justify-content: center;
 }
+
+
+.certificate{
+	width: 200px;
+	height: 100px;
+}
